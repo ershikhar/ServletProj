@@ -1,0 +1,7 @@
+Help Doc :
+
+To test ,call http://localhost:8080/ServletProj/check?user=9
+
+dont start it on server which is running for webservices
+
+Resource : http://www.studytonight.com/servlet/steps-to-create-servlet-using-tomcat-server
